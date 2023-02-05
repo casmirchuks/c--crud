@@ -1,99 +1,152 @@
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.exe
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.deps.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.runtimeconfig.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\CustomerAPI.pdb
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.AssemblyReference.cache
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.AssemblyInfoInputs.cache
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.AssemblyInfo.cs
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.CoreCompileInputs.cache
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerAPI.props
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerAPI.props
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerAPI.props
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\scopedcss\bundle\CustomerAPI.styles.css
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.CopyComplete
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\refint\CustomerAPI.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.pdb
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\CustomerAPI.genruntimeconfig.cache
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\obj\Debug\net6.0\ref\CustomerAPI.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\godbl\source\repos\CustomerAPI\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Ernest Keita\restAPI-with-Entity\CustomerAPI\obj\Debug\net6.0\CustomerAPI.dll
-C:\Users\Ernest Keita\restAPI-with-Entity\CustomerAPI\obj\Debug\net6.0\refint\CustomerAPI.dll
-C:\Users\Ernest Keita\restAPI-with-Entity\CustomerAPI\obj\Debug\net6.0\CustomerAPI.pdb
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\CustomerAPI.exe
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\CustomerAPI.deps.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\CustomerAPI.runtimeconfig.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\CustomerAPI.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\CustomerAPI.pdb
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\System.Text.Json.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.AssemblyReference.cache
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.AssemblyInfoInputs.cache
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.AssemblyInfo.cs
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.CoreCompileInputs.cache
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerAPI.props
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerAPI.props
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerAPI.props
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\scopedcss\bundle\CustomerAPI.styles.css
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.csproj.CopyComplete
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\refint\CustomerAPI.dll
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.pdb
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\CustomerAPI.genruntimeconfig.cache
-C:\Users\Ernest Keita\source\repos\CustomerAPI\obj\Debug\net6.0\ref\CustomerAPI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/CustomerAPI.exe
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/CustomerAPI.deps.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/CustomerAPI.runtimeconfig.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/CustomerAPI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/CustomerAPI.pdb
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.AssemblyReference.cache
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfoInputs.cache
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfo.cs
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CoreCompileInputs.cache
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.CustomerAPI.props
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CustomerAPI.props
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CustomerAPI.props
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/scopedcss/bundle/CustomerAPI.styles.css
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CopyComplete
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/refint/CustomerAPI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.pdb
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/CustomerAPI.genruntimeconfig.cache
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/obj/Debug/net6.0/ref/CustomerAPI.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/godbl/source/repos/CustomerAPI/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Ernest Keita/restAPI-with-Entity/CustomerAPI/obj/Debug/net6.0/CustomerAPI.dll
+C:/Users/Ernest Keita/restAPI-with-Entity/CustomerAPI/obj/Debug/net6.0/refint/CustomerAPI.dll
+C:/Users/Ernest Keita/restAPI-with-Entity/CustomerAPI/obj/Debug/net6.0/CustomerAPI.pdb
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/CustomerAPI.exe
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/CustomerAPI.deps.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/CustomerAPI.runtimeconfig.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/CustomerAPI.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/CustomerAPI.pdb
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.AssemblyReference.cache
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfoInputs.cache
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfo.cs
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CoreCompileInputs.cache
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.CustomerAPI.props
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CustomerAPI.props
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CustomerAPI.props
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/scopedcss/bundle/CustomerAPI.styles.css
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CopyComplete
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/refint/CustomerAPI.dll
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.pdb
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/CustomerAPI.genruntimeconfig.cache
+C:/Users/Ernest Keita/source/repos/CustomerAPI/obj/Debug/net6.0/ref/CustomerAPI.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/appsettings.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/CustomerAPI
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/CustomerAPI.deps.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/CustomerAPI.runtimeconfig.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/CustomerAPI.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/CustomerAPI.pdb
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/System.CodeDom.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.AssemblyReference.cache
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfoInputs.cache
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.AssemblyInfo.cs
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CoreCompileInputs.cache
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.CustomerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.CustomerAPI.props
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CustomerAPI.props
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CustomerAPI.props
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/scopedcss/bundle/CustomerAPI.styles.css
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.csproj.CopyComplete
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/refint/CustomerAPI.dll
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.pdb
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/CustomerAPI.genruntimeconfig.cache
+/Users/casmirchuwkuma/Projects/c--crud/CustomerAPI/obj/Debug/net6.0/ref/CustomerAPI.dll

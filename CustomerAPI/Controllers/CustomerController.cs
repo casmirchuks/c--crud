@@ -2,6 +2,7 @@
 using CustomerAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Net.Mail;
 
 namespace CustomerAPI.Controllers
 {
@@ -38,17 +39,34 @@ namespace CustomerAPI.Controllers
 
         }
 
+        public static string IsValidEmail(string email)
+        {
+            try
+            {
+                MailAddress validEmail = new MailAddress(email);
+                return validEmail.Address;
+            }
+            catch (FormatException)
+            {
+                //if the email address is not valid, show an error message
+                return "Incorrect email. Please try again";
+            }
+            catch (Exception)
+            {
+                return "Incorrect email. Please try again";
+            }
+        }
+
         [HttpPost]
         public async Task<IActionResult> AddCustomer(Models.AddCustomerRequest addCustomerRequest)
         {
             var today = DateTime.Now;
-            var customer = new Customer()
-            {
+            var customer = new Customer() {
                 CustomerId = Guid.NewGuid(),
                 FirstName = addCustomerRequest.FirstName,
                 LastName = addCustomerRequest.LastName,
                 UserName = addCustomerRequest.FirstName + " " + addCustomerRequest.LastName,
-                EmailAddress = addCustomerRequest.EmailAddress,
+                EmailAddress = IsValidEmail(addCustomerRequest.EmailAddress),
                 DateOfBirth = addCustomerRequest.DateOfBirth,
                 Age = DateTime.Now.Year - DateTime.Parse( addCustomerRequest.DateOfBirth).Year,
                 DateCreated = today.ToString(),
@@ -56,25 +74,30 @@ namespace CustomerAPI.Controllers
                 IsDeleted = addCustomerRequest.IsDeleted
             };
 
+
             await dbContext.Customers.AddAsync(customer);
             await dbContext.SaveChangesAsync();
-
             return Ok(customer);
         }
+
 
         [HttpPut]
         [Route("{id:guid}")]
         public async Task<IActionResult> UpdateCustomer([FromRoute] Guid id,Models.UpdateCustomerRequest updateCustomerRequest)
         {
-           var customer =  await dbContext.Customers.FindAsync(id);
+            var today = DateTime.Now;
+            var customer =  await dbContext.Customers.FindAsync(id);
             if (customer != null)
             {
                 customer.FirstName = updateCustomerRequest.FirstName;   
                 customer.LastName = updateCustomerRequest.LastName;
-                customer.EmailAddress = updateCustomerRequest.EmailAddress;
+                customer.UserName = updateCustomerRequest.FirstName + " " + updateCustomerRequest.LastName;
+                customer.EmailAddress = IsValidEmail(updateCustomerRequest.EmailAddress);
                 customer.DateOfBirth = updateCustomerRequest.DateOfBirth;
-                customer.Age = updateCustomerRequest.Age;
-                customer.DateEdited = updateCustomerRequest.DateEdited;
+                customer.Age = DateTime.Now.Year - DateTime.Parse(updateCustomerRequest.DateOfBirth).Year;
+                customer.DateEdited = today.ToString();
+                customer.IsDeleted = updateCustomerRequest.IsDeleted;
+
 
                 await dbContext.SaveChangesAsync();
 
