@@ -61,6 +61,18 @@ namespace CustomerAPI.Controllers
         public async Task<IActionResult> AddCustomer(Models.AddCustomerRequest addCustomerRequest)
         {
             var today = DateTime.Now;
+            DateTime userBirth = DateTime.Parse(addCustomerRequest.DateOfBirth);
+            int age = DateTime.Now.Year - userBirth.Year;
+
+            if (DateTime.Now.Month < userBirth.Month ||
+                (DateTime.Now.Month == userBirth.Month && DateTime.Now.Day < userBirth.Day))
+            {
+                age--;
+            }
+
+            Console.WriteLine("Your age is: " + age);
+
+
             var customer = new Customer() {
                 CustomerId = Guid.NewGuid(),
                 FirstName = addCustomerRequest.FirstName,
@@ -68,7 +80,8 @@ namespace CustomerAPI.Controllers
                 UserName = addCustomerRequest.FirstName + " " + addCustomerRequest.LastName,
                 EmailAddress = IsValidEmail(addCustomerRequest.EmailAddress),
                 DateOfBirth = addCustomerRequest.DateOfBirth,
-                Age = DateTime.Now.Year - DateTime.Parse( addCustomerRequest.DateOfBirth).Year,
+                //Age = DateTime.Now.Year - DateTime.Parse( addCustomerRequest.DateOfBirth).Year,
+                Age = age,
                 DateCreated = today.ToString(),
                 DateEdited = today.ToString(),
                 IsDeleted = addCustomerRequest.IsDeleted
